@@ -1,0 +1,1 @@
+sudo fc-cache -fv
