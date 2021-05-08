@@ -1,0 +1,1 @@
+kitty + list-fonts --psnames
